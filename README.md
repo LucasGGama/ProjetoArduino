@@ -9,7 +9,7 @@ Python com Tkinter: Interface gráfica para exibir os registros capturados e exp
 
 #ALGUNS ERROS.
 
-resolvi o erro de registro começar do nº2 fazendo a lógica contrária, ao inves do código começar registrando do 1, mudei para que ele começasse do 0 e assim consegui que ele registrasse o 1º da fila
+resolvi o erro de registro começava do nº2 fazendo a lógica contrária, ao inves do código começar registrando do 1, mudei para que ele começasse do 0 e assim consegui que ele registrasse o 1º da fila
 
 
 Segue o erro que eu dei após instalar o manda e pedir para exportar os dados para excel, precisava de mais uma biblioteca para salvar os arquivos em excel precisava da biblioteca "openpyxl"
